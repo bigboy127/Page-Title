@@ -1,0 +1,24 @@
+body{
+    font-size:28px;
+    text-align:center;
+    background-color:red;
+    color:white;
+}
+li{
+    text-align:left;
+}
+p{
+    font-family:spicy rice;
+}
+ul{
+    font-family:spicy rice;
+}
+img{
+    text-align:right;
+    border:solid;
+    color:black;
+    width: 500px;
+}
+body {
+    background: url('https://lh3.googleusercontent.com/yAvmHLGfxiKPsv2fa19B_VfyGYS8yVJ6Ap746HyFAHtHCVLmakwGDZBT0tK_lFNpCwHPgQB1UAjC2NsRwDJydJ0LM9nbKHoEmeXmjR4v6i9yAWCcLu9w8NkO6wJSE6TkPfi99_o8S80JIk0Ym7YDs_SGpFEByADowRr6Y5sElOiqGiLc7GUx1OKdfuqFs_GSbwihGq59NYi19oAzrj7-NxeCyhsjl90suD5HvmEyQTEzUs-Q7khYhZ7__m7JQ1VrAR7pxnL1Kk8Bi7IXUv6MaUSrDJdM_LuFA3yNSbnTbbBZ2-M8-ZNo-gd0i9_4KCkRdNUG9Dw8aBBwRbJfvrBFDiNU935ze7ONjCM862F3CoFYVfl02HFtZT88dAvCaVJxCUvmcOWj0DIYmww2Fv1CgbATE9kLjmMRNhyiZfXZ2tibzC7713nb95gZzJ-PyWN9qxvOmTxFARIHZLOpYy_imwG7eFma7rCTKxV5MSc2O6bNtNYYz9h_Z8ZPSDnaI1VJLoBLQm0ZOkxGrvaiob7ShJYT3mKN4p_8RzDtlRD36Hogcgsq2fRx8CpJAp4Camttu700d3Qe2g7demzTzZPYX2TGPawvvRH5MgeSnqHkUKO7kzvwgspr-e2fxQSOLuhQKIvhnOfCC7gZwCodfTbY12LNluZwAMILv1RXYrHzSkILRfLEnr1k-XxacejBzr2kmVvYtA0wQKndGiPH=w704-h938-no');
+}
